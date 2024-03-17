@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NewGame.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bay madafaka0000" x="5043" y="1159" width="443" height="443" frameX="-967" frameY="-134" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="bay madafaka0001" x="5043" y="1159" width="443" height="443" frameX="-967" frameY="-134" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="bay madafaka0002" x="0" y="0" width="433" height="436" frameX="-989" frameY="-156" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0003" x="0" y="0" width="433" height="436" frameX="-989" frameY="-156" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0004" x="433" y="0" width="433" height="436" frameX="-994" frameY="-161" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0005" x="433" y="0" width="433" height="436" frameX="-994" frameY="-161" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0006" x="866" y="0" width="441" height="443" frameX="-953" frameY="-131" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0007" x="866" y="0" width="441" height="443" frameX="-953" frameY="-131" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0008" x="1307" y="0" width="442" height="444" frameX="-949" frameY="-126" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0009" x="1307" y="0" width="442" height="444" frameX="-949" frameY="-126" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0010" x="1749" y="0" width="444" height="443" frameX="-946" frameY="-125" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0011" x="1749" y="0" width="444" height="443" frameX="-946" frameY="-125" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0012" x="1749" y="0" width="444" height="443" frameX="-946" frameY="-125" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0013" x="1749" y="0" width="444" height="443" frameX="-946" frameY="-125" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0014" x="1749" y="0" width="444" height="443" frameX="-946" frameY="-125" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0015" x="1749" y="0" width="444" height="443" frameX="-946" frameY="-125" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0016" x="2193" y="0" width="447" height="446" frameX="-940" frameY="-107" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0017" x="2193" y="0" width="447" height="446" frameX="-940" frameY="-107" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0018" x="2640" y="0" width="447" height="446" frameX="-940" frameY="-104" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0019" x="2640" y="0" width="447" height="446" frameX="-940" frameY="-104" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0020" x="2640" y="0" width="447" height="446" frameX="-940" frameY="-104" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0021" x="2640" y="0" width="447" height="446" frameX="-940" frameY="-104" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0022" x="2640" y="0" width="447" height="446" frameX="-940" frameY="-104" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0023" x="2640" y="0" width="447" height="446" frameX="-940" frameY="-104" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0024" x="3087" y="0" width="437" height="439" frameX="-962" frameY="-157" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0025" x="3087" y="0" width="437" height="439" frameX="-962" frameY="-157" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0026" x="3524" y="0" width="435" height="439" frameX="-965" frameY="-159" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0027" x="3524" y="0" width="435" height="439" frameX="-965" frameY="-159" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0028" x="3959" y="0" width="443" height="443" frameX="-951" frameY="-131" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0029" x="3959" y="0" width="443" height="443" frameX="-951" frameY="-131" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0030" x="4402" y="0" width="443" height="444" frameX="-948" frameY="-129" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0031" x="4402" y="0" width="443" height="444" frameX="-948" frameY="-129" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0032" x="4402" y="0" width="443" height="444" frameX="-948" frameY="-129" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0033" x="4402" y="0" width="443" height="444" frameX="-948" frameY="-129" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0034" x="4402" y="0" width="443" height="444" frameX="-948" frameY="-129" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0035" x="4402" y="0" width="443" height="444" frameX="-948" frameY="-129" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0036" x="4402" y="0" width="443" height="444" frameX="-948" frameY="-129" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0037" x="4845" y="0" width="415" height="429" frameX="-986" frameY="-144" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0038" x="5260" y="0" width="411" height="431" frameX="-1013" frameY="-142" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0039" x="5671" y="0" width="440" height="451" frameX="-1012" frameY="-122" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0040" x="6111" y="0" width="431" height="410" frameX="-1014" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0041" x="6542" y="0" width="415" height="428" frameX="-1008" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0042" x="6957" y="0" width="442" height="441" frameX="-951" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0043" x="7399" y="0" width="450" height="438" frameX="-943" frameY="-137" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0044" x="0" y="451" width="412" height="431" frameX="-992" frameY="-145" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0045" x="6111" y="0" width="431" height="410" frameX="-1014" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0046" x="6542" y="0" width="415" height="428" frameX="-1008" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0047" x="6957" y="0" width="442" height="441" frameX="-951" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0048" x="7399" y="0" width="450" height="438" frameX="-943" frameY="-137" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0049" x="0" y="451" width="412" height="431" frameX="-992" frameY="-145" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0050" x="6111" y="0" width="431" height="410" frameX="-1014" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0051" x="412" y="451" width="416" height="428" frameX="-1020" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0052" x="828" y="451" width="442" height="441" frameX="-997" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0053" x="1270" y="451" width="450" height="438" frameX="-1070" frameY="-137" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0054" x="1720" y="451" width="411" height="431" frameX="-1141" frameY="-145" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0055" x="2131" y="451" width="431" height="410" frameX="-1168" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0056" x="2562" y="451" width="415" height="428" frameX="-1163" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0057" x="2977" y="451" width="442" height="441" frameX="-1106" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0058" x="3419" y="451" width="450" height="438" frameX="-1098" frameY="-137" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0059" x="3869" y="451" width="411" height="431" frameX="-1099" frameY="-145" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0060" x="4280" y="451" width="431" height="410" frameX="-953" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0061" x="4711" y="451" width="415" height="428" frameX="-698" frameY="-196" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0062" x="5126" y="451" width="594" height="708" frameX="-137" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0063" x="5126" y="451" width="594" height="708" frameX="-137" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0064" x="5720" y="451" width="586" height="708" frameX="-566" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0065" x="5720" y="451" width="586" height="708" frameX="-566" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0066" x="6306" y="451" width="586" height="708" frameX="-531" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0067" x="6306" y="451" width="586" height="708" frameX="-531" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0068" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0069" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0070" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0071" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0072" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0073" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0074" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0075" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0076" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0077" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0078" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0079" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0080" x="6892" y="451" width="586" height="708" frameX="-528" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0081" x="7478" y="451" width="586" height="708" frameX="-224" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0082" x="0" y="1159" width="605" height="708" frameX="0" frameY="0" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0083" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0084" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0085" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0086" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0087" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0088" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0089" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0090" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0091" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0092" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0093" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0094" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0095" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0096" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0097" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0098" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0099" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0100" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0101" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0102" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0103" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0104" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0105" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0106" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0107" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0108" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0109" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0110" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0111" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0112" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0113" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0114" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0115" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0116" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0117" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0118" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0119" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0120" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0121" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0122" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0123" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0124" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0125" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0126" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0127" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0128" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0129" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0130" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0131" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0132" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0133" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0134" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0135" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0136" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0137" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0138" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0139" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0140" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0141" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0142" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0143" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0144" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0145" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0146" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0147" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0148" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0149" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0150" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0151" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0152" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0153" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0154" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0155" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0156" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0157" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0158" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0159" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0160" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0161" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0162" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0163" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0164" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0165" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0166" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0167" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0168" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0169" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0170" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0171" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0172" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0173" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0174" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0175" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0176" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0177" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0178" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0179" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0180" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0181" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0182" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0183" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0184" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0185" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0186" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0187" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0188" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0189" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0190" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0191" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0192" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0193" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0194" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0195" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0196" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0197" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0198" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0199" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0200" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0201" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0202" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0203" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0204" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0205" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0206" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0207" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0208" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0209" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0210" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0211" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0212" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0213" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0214" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0215" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0216" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0217" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0218" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0219" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0220" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0221" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0222" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0223" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0224" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0225" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0226" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0227" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0228" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0229" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0230" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0231" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0232" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0233" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0234" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0235" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0236" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0237" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0238" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0239" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0240" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0241" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0242" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0243" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0244" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0245" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0246" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0247" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0248" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0249" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0250" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0251" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0252" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0253" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0254" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0255" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0256" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0257" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0258" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0259" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0260" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0261" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0262" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0263" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0264" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0265" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0266" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0267" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0268" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0269" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0270" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0271" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0272" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0273" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0274" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0275" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0276" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0277" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0278" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0279" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0280" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0281" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0282" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0283" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0284" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0285" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0286" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0287" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0288" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0289" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0290" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0291" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0292" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0293" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0294" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0295" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0296" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0297" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0298" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0299" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0300" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0301" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0302" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0303" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0304" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0305" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0306" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0307" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0308" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0309" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0310" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0311" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0312" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0313" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0314" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0315" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0316" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0317" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0318" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0319" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0320" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0321" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0322" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0323" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0324" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0325" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0326" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0327" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0328" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0329" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0330" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0331" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0332" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0333" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0334" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0335" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0336" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0337" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0338" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0339" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0340" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0341" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0342" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0343" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0344" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0345" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0346" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0347" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0348" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0349" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0350" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0351" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0352" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0353" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0354" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0355" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0356" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0357" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0358" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0359" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0360" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0361" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0362" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0363" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0364" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0365" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0366" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0367" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0368" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0369" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0370" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0371" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0372" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0373" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0374" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="bay madafaka0375" x="605" y="1159" width="0" height="0" frameX="-1194" frameY="-356" frameWidth="1599" frameHeight="708"/>
+	<SubTexture name="down0000" x="605" y="1159" width="446" height="446" frameX="-5" frameY="-71" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0001" x="605" y="1159" width="446" height="446" frameX="-5" frameY="-71" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0002" x="1051" y="1159" width="445" height="445" frameX="-9" frameY="-63" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0003" x="1051" y="1159" width="445" height="445" frameX="-9" frameY="-63" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0004" x="1496" y="1159" width="447" height="446" frameX="-3" frameY="-60" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0005" x="1496" y="1159" width="447" height="446" frameX="-3" frameY="-60" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0006" x="1943" y="1159" width="448" height="447" frameX="0" frameY="-58" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0007" x="1943" y="1159" width="448" height="447" frameX="0" frameY="-58" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0008" x="1943" y="1159" width="448" height="447" frameX="0" frameY="-58" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0009" x="1943" y="1159" width="448" height="447" frameX="0" frameY="-58" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0010" x="1943" y="1159" width="448" height="447" frameX="0" frameY="-58" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0011" x="2391" y="1159" width="450" height="448" frameX="0" frameY="0" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="down0012" x="2391" y="1159" width="450" height="448" frameX="0" frameY="0" frameWidth="454" frameHeight="517"/>
+	<SubTexture name="idle0000" x="2841" y="1159" width="435" height="439" frameX="-29" frameY="-34" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0001" x="2841" y="1159" width="435" height="439" frameX="-29" frameY="-34" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0002" x="3276" y="1159" width="434" height="437" frameX="-30" frameY="-27" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0003" x="3276" y="1159" width="434" height="437" frameX="-30" frameY="-27" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0004" x="3710" y="1159" width="444" height="445" frameX="-2" frameY="-1" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0005" x="3710" y="1159" width="444" height="445" frameX="-2" frameY="-1" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0006" x="4154" y="1159" width="445" height="445" frameX="0" frameY="0" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0007" x="4154" y="1159" width="445" height="445" frameX="0" frameY="0" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0008" x="4154" y="1159" width="445" height="445" frameX="0" frameY="0" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0009" x="4154" y="1159" width="445" height="445" frameX="0" frameY="0" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0010" x="4154" y="1159" width="445" height="445" frameX="0" frameY="0" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0011" x="4599" y="1159" width="444" height="445" frameX="-3" frameY="-1" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0012" x="4599" y="1159" width="444" height="445" frameX="-3" frameY="-1" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0013" x="5043" y="1159" width="443" height="443" frameX="-9" frameY="-9" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="idle0014" x="5043" y="1159" width="443" height="443" frameX="-9" frameY="-9" frameWidth="464" frameHeight="473"/>
+	<SubTexture name="left0000" x="5486" y="1159" width="448" height="435" frameX="-2" frameY="-2" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0001" x="5486" y="1159" width="448" height="435" frameX="-2" frameY="-2" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0002" x="5934" y="1159" width="437" height="420" frameX="0" frameY="-27" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0003" x="5934" y="1159" width="437" height="420" frameX="0" frameY="-27" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0004" x="6371" y="1159" width="442" height="427" frameX="-8" frameY="-13" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0005" x="6371" y="1159" width="442" height="427" frameX="-8" frameY="-13" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0006" x="6813" y="1159" width="444" height="430" frameX="-10" frameY="-9" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0007" x="6813" y="1159" width="444" height="430" frameX="-10" frameY="-9" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0008" x="7257" y="1159" width="444" height="430" frameX="-10" frameY="-9" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0009" x="7257" y="1159" width="444" height="430" frameX="-10" frameY="-9" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0010" x="7257" y="1159" width="444" height="430" frameX="-10" frameY="-9" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0011" x="7257" y="1159" width="444" height="430" frameX="-10" frameY="-9" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0012" x="7701" y="1159" width="449" height="436" frameX="-34" frameY="0" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="left0013" x="7701" y="1159" width="449" height="436" frameX="-34" frameY="0" frameWidth="483" frameHeight="447"/>
+	<SubTexture name="right0000" x="0" y="1867" width="451" height="449" frameX="-45" frameY="-22" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0001" x="0" y="1867" width="451" height="449" frameX="-45" frameY="-22" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0002" x="451" y="1867" width="455" height="449" frameX="-21" frameY="0" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0003" x="451" y="1867" width="455" height="449" frameX="-21" frameY="0" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0004" x="906" y="1867" width="454" height="449" frameX="-27" frameY="-4" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0005" x="906" y="1867" width="454" height="449" frameX="-27" frameY="-4" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0006" x="1360" y="1867" width="454" height="449" frameX="-29" frameY="-5" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0007" x="1360" y="1867" width="454" height="449" frameX="-29" frameY="-5" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0008" x="1814" y="1867" width="454" height="449" frameX="-29" frameY="-5" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0009" x="1814" y="1867" width="454" height="449" frameX="-29" frameY="-5" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0010" x="1814" y="1867" width="454" height="449" frameX="-29" frameY="-5" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0011" x="1814" y="1867" width="454" height="449" frameX="-29" frameY="-5" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0012" x="2268" y="1867" width="452" height="448" frameX="0" frameY="-20" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="right0013" x="2268" y="1867" width="452" height="448" frameX="0" frameY="-20" frameWidth="496" frameHeight="471"/>
+	<SubTexture name="up0000" x="2720" y="1867" width="435" height="438" frameX="-19" frameY="-39" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0001" x="2720" y="1867" width="435" height="438" frameX="-19" frameY="-39" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0002" x="3155" y="1867" width="447" height="446" frameX="-6" frameY="0" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0003" x="3155" y="1867" width="447" height="446" frameX="-6" frameY="0" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0004" x="3602" y="1867" width="449" height="447" frameX="0" frameY="-10" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0005" x="3602" y="1867" width="449" height="447" frameX="0" frameY="-10" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0006" x="4051" y="1867" width="447" height="447" frameX="-5" frameY="-12" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0007" x="4051" y="1867" width="447" height="447" frameX="-5" frameY="-12" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0008" x="4498" y="1867" width="447" height="447" frameX="-6" frameY="-13" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0009" x="4498" y="1867" width="447" height="447" frameX="-6" frameY="-13" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0010" x="4945" y="1867" width="447" height="447" frameX="-6" frameY="-13" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0011" x="4945" y="1867" width="447" height="447" frameX="-6" frameY="-13" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0012" x="4945" y="1867" width="447" height="447" frameX="-6" frameY="-13" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0013" x="4945" y="1867" width="447" height="447" frameX="-6" frameY="-13" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0014" x="5392" y="1867" width="445" height="444" frameX="-14" frameY="-42" frameWidth="459" frameHeight="486"/>
+	<SubTexture name="up0015" x="5392" y="1867" width="445" height="444" frameX="-14" frameY="-42" frameWidth="459" frameHeight="486"/>
+</TextureAtlas>

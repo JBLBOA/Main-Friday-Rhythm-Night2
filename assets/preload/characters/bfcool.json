@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				103,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BFfailleft"
+		},
+		{
+			"offsets": [
+				72,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BFfaildown"
+		},
+		{
+			"offsets": [
+				44,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BFfailup"
+		},
+		{
+			"offsets": [
+				36,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BFfailright"
+		},
+		{
+			"offsets": [
+				80,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "BFpreatack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				120
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "BFdodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BFhit"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				83
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				107,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "BFcoolleft"
+		},
+		{
+			"offsets": [
+				100,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "BFcooldown"
+		},
+		{
+			"offsets": [
+				32,
+				139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BFcoolup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				80
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BFcoolright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				35,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BFcoolidle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/HeV_Style",
+	"position": [
+		100,
+		400
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		310,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

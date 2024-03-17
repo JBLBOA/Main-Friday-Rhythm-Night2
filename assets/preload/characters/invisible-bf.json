@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF CYAN idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-330,
+				70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF CYAN Right dash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF CYAN Left dash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				190
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF CYAN Up dash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-210
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF CYAN Down dash",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/invisible-bf",
+	"position": [
+		310,
+		70
+	],
+	"healthicon": "bfcyan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		-140,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

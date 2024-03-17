@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "blixer left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				580
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "blixer up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "blixer right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-230
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "blixer down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-210,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transform",
+			"indices": [],
+			"name": "blixer transform"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				340
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "blixer attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "blixer idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Blixer-Mad",
+	"position": [
+		-280,
+		110
+	],
+	"healthicon": "Blixer",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		15,
+		115
+	],
+	"camera_position": [
+		0,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

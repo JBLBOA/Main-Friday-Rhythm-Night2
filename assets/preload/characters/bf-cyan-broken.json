@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dies",
+			"loop": false,
+			"name": "BF Cyan Broken"
+		},
+		{
+			"offsets": [
+				-40,
+				115
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "its over",
+			"loop": false,
+			"name": "Its Over"
+		},
+		{
+			"offsets": [
+				-25,
+				115
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "its not over",
+			"loop": false,
+			"name": "Its NOT Over"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF CYAN BROKEN",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "bfcyan",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		-250,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.2
+}

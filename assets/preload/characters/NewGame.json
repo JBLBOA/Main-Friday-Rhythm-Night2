@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				320
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				49
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				1248,
+				166
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "animation",
+			"loop": true,
+			"name": "bay madafaka"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/NewGame",
+	"position": [
+		-40,
+		110
+	],
+	"healthicon": "Blixer",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		15,
+		115
+	],
+	"camera_position": [
+		-30,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

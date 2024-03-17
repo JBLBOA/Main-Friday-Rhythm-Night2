@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-690
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				590,
+				-200
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				420
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "down cut0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-290,
+				240
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up cut0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				730,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "left cut0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				399,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "right cut0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sables BF",
+	"position": [
+		300,
+		-90
+	],
+	"healthicon": "sabers",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		215,
+		235
+	],
+	"camera_position": [
+		140,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

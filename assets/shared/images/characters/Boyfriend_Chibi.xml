@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boyfriend_Chibi.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ChibiBF D MISS0000" x="0" y="0" width="674" height="625" frameX="0" frameY="-128" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0001" x="674" y="0" width="674" height="753"/>
+	<SubTexture name="ChibiBF D MISS0002" x="674" y="0" width="674" height="753"/>
+	<SubTexture name="ChibiBF D MISS0003" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0004" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0005" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0006" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0007" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0008" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0009" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0010" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0011" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0012" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0013" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0014" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0015" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0016" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0017" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0018" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0019" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0020" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0021" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0022" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0023" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0024" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0025" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0026" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0027" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0028" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0029" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0030" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0031" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0032" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0033" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0034" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0035" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0036" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0037" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0038" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0039" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0040" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0041" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0042" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0043" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF D MISS0044" x="1348" y="0" width="674" height="717" frameX="0" frameY="-36" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBF L MISS0000" x="2022" y="0" width="648" height="629" frameX="-13" frameY="-61" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0001" x="2670" y="0" width="648" height="689" frameX="-13" frameY="-1" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0002" x="2670" y="0" width="648" height="689" frameX="-13" frameY="-1" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0003" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0004" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0005" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0006" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0007" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0008" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0009" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0010" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0011" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0012" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0013" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0014" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0015" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0016" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0017" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0018" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0019" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0020" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0021" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0022" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0023" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0024" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0025" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0026" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0027" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0028" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0029" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0030" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0031" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0032" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0033" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0034" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0035" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0036" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0037" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0038" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0039" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0040" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0041" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0042" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0043" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF L MISS0044" x="3318" y="0" width="651" height="690" frameX="0" frameY="0" frameWidth="661" frameHeight="690"/>
+	<SubTexture name="ChibiBF R MISS0000" x="0" y="753" width="656" height="635" frameX="0" frameY="-138" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0001" x="656" y="753" width="656" height="757" frameX="0" frameY="-16" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0002" x="656" y="753" width="656" height="757" frameX="0" frameY="-16" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0003" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0004" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0005" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0006" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0007" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0008" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0009" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0010" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0011" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0012" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0013" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0014" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0015" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0016" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0017" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0018" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0019" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0020" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0021" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0022" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0023" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0024" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0025" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0026" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0027" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0028" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0029" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0030" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0031" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0032" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0033" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0034" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0035" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0036" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0037" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0038" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0039" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0040" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0041" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0042" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0043" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF R MISS0044" x="1312" y="753" width="655" height="773" frameX="-18" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBF U MISS0000" x="1967" y="753" width="651" height="638" frameX="0" frameY="-160" frameWidth="651" frameHeight="799"/>
+	<SubTexture name="ChibiBF U MISS0001" x="2618" y="753" width="651" height="765" frameX="0" frameY="-33" frameWidth="651" frameHeight="799"/>
+	<SubTexture name="ChibiBF U MISS0002" x="2618" y="753" width="651" height="765" frameX="0" frameY="-33" frameWidth="651" frameHeight="799"/>
+	<SubTexture name="ChibiBF U MISS0003" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0004" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0005" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0006" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0007" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0008" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0009" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0010" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0011" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0012" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0013" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0014" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0015" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0016" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0017" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0018" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0019" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0020" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0021" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0022" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0023" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0024" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0025" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0026" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0027" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0028" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0029" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0030" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0031" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0032" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0033" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0034" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0035" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0036" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0037" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0038" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0039" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0040" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0041" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0042" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0043" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBF U MISS0044" x="3269" y="753" width="651" height="799"/>
+	<SubTexture name="ChibiBFdown0000" x="0" y="1552" width="679" height="621" frameX="0" frameY="-4" frameWidth="679" frameHeight="625"/>
+	<SubTexture name="ChibiBFdown0001" x="0" y="1552" width="679" height="621" frameX="0" frameY="-4" frameWidth="679" frameHeight="625"/>
+	<SubTexture name="ChibiBFdown0002" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFdown0003" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFdown0004" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFdown0005" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFdown0006" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFdown0007" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFdown0008" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFdown0009" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFdown0010" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFdown0011" x="0" y="0" width="674" height="625" frameX="-2" frameY="0" frameWidth="674" frameHeight="753"/>
+	<SubTexture name="ChibiBFidle0000" x="679" y="1552" width="654" height="619" frameX="0" frameY="-10" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0001" x="679" y="1552" width="654" height="619" frameX="0" frameY="-10" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0002" x="1333" y="1552" width="655" height="624" frameX="-4" frameY="-5" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0003" x="1333" y="1552" width="655" height="624" frameX="-4" frameY="-5" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0004" x="1988" y="1552" width="648" height="628" frameX="-29" frameY="-1" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0005" x="1988" y="1552" width="648" height="628" frameX="-29" frameY="-1" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0006" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0007" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0008" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0009" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0010" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0011" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0012" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0013" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0014" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFidle0015" x="2636" y="1552" width="649" height="629" frameX="-29" frameY="0" frameWidth="678" frameHeight="629"/>
+	<SubTexture name="ChibiBFleft0000" x="3285" y="1552" width="646" height="632" frameX="0" frameY="0" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0001" x="3285" y="1552" width="646" height="632" frameX="0" frameY="0" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0002" x="0" y="2184" width="648" height="629" frameX="-1" frameY="-3" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0003" x="0" y="2184" width="648" height="629" frameX="-1" frameY="-3" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0004" x="0" y="2184" width="648" height="629" frameX="-1" frameY="-3" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0005" x="0" y="2184" width="648" height="629" frameX="-1" frameY="-3" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0006" x="0" y="2184" width="648" height="629" frameX="-1" frameY="-3" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0007" x="0" y="2184" width="648" height="629" frameX="-1" frameY="-3" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0008" x="0" y="2184" width="648" height="629" frameX="-1" frameY="-3" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0009" x="0" y="2184" width="648" height="629" frameX="-1" frameY="-3" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFleft0010" x="0" y="2184" width="648" height="629" frameX="-1" frameY="-3" frameWidth="649" frameHeight="632"/>
+	<SubTexture name="ChibiBFright0000" x="648" y="2184" width="657" height="635" frameX="-2" frameY="0" frameWidth="659" frameHeight="635"/>
+	<SubTexture name="ChibiBFright0001" x="648" y="2184" width="657" height="635" frameX="-2" frameY="0" frameWidth="659" frameHeight="635"/>
+	<SubTexture name="ChibiBFright0002" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFright0003" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFright0004" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFright0005" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFright0006" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFright0007" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFright0008" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFright0009" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFright0010" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFright0011" x="0" y="753" width="656" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="773"/>
+	<SubTexture name="ChibiBFup0000" x="1305" y="2184" width="652" height="648" frameX="-1" frameY="0" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0001" x="1305" y="2184" width="652" height="648" frameX="-1" frameY="0" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0002" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0003" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0004" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0005" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0006" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0007" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0008" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0009" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0010" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+	<SubTexture name="ChibiBFup0011" x="1957" y="2184" width="651" height="638" frameX="0" frameY="-10" frameWidth="653" frameHeight="648"/>
+</TextureAtlas>

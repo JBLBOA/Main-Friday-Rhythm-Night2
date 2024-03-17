@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				53,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ChibiBFdown"
+		},
+		{
+			"offsets": [
+				-90,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ChibiBFright"
+		},
+		{
+			"offsets": [
+				-73,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ChibiBFup"
+		},
+		{
+			"offsets": [
+				53,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ChibiBFleft"
+		},
+		{
+			"offsets": [
+				-77,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "ChibiBF U MISS"
+		},
+		{
+			"offsets": [
+				54,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ChibiBF D MISS"
+		},
+		{
+			"offsets": [
+				64,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "ChibiBF L MISS"
+		},
+		{
+			"offsets": [
+				-88,
+				156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "ChibiBF R MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ChibiBFidle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Boyfriend_Chibi",
+	"position": [
+		-120,
+		380
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-60,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

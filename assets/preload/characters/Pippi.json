@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-212,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "osugirl2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-219,
+				142
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "osugirl8",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-226,
+				139
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "osugirl5",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-183,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "osugirl4"
+		},
+		{
+			"offsets": [
+				-107,
+				129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "osugirl6"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pippi",
+	"position": [
+		-140,
+		170
+	],
+	"healthicon": "Pippi",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		215,
+		235
+	],
+	"camera_position": [
+		230,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

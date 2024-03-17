@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pippi.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="osugirl2 instance 10000" x="0" y="0" width="320" height="581"/>
+	<SubTexture name="osugirl2 instance 10001" x="320" y="0" width="320" height="581"/>
+	<SubTexture name="osugirl2 instance 10002" x="640" y="0" width="320" height="581"/>
+	<SubTexture name="osugirl2 instance 10003" x="960" y="0" width="320" height="581"/>
+	<SubTexture name="osugirl2 instance 10004" x="1280" y="0" width="320" height="581"/>
+	<SubTexture name="osugirl2 instance 10005" x="1600" y="0" width="320" height="581"/>
+	<SubTexture name="osugirl4 instance 10000" x="1920" y="0" width="372" height="602"/>
+	<SubTexture name="osugirl4 instance 10001" x="2292" y="0" width="372" height="602"/>
+	<SubTexture name="osugirl4 instance 10002" x="2664" y="0" width="372" height="602"/>
+	<SubTexture name="osugirl4 instance 10003" x="3036" y="0" width="372" height="602"/>
+	<SubTexture name="osugirl4 instance 10004" x="3408" y="0" width="372" height="602"/>
+	<SubTexture name="osugirl4 instance 10005" x="0" y="602" width="372" height="602"/>
+	<SubTexture name="osugirl5 instance 10000" x="372" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10001" x="652" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10002" x="932" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10003" x="1212" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10004" x="1492" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10005" x="1772" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10006" x="2052" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10007" x="2332" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10008" x="2612" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10009" x="2892" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10010" x="3172" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl5 instance 10011" x="3452" y="602" width="280" height="612"/>
+	<SubTexture name="osugirl6 instance 10000" x="3732" y="602" width="340" height="604"/>
+	<SubTexture name="osugirl6 instance 10001" x="0" y="1214" width="340" height="604"/>
+	<SubTexture name="osugirl6 instance 10002" x="340" y="1214" width="340" height="604"/>
+	<SubTexture name="osugirl6 instance 10003" x="680" y="1214" width="340" height="604"/>
+	<SubTexture name="osugirl6 instance 10004" x="1020" y="1214" width="340" height="604"/>
+	<SubTexture name="osugirl6 instance 10005" x="1360" y="1214" width="340" height="604"/>
+	<SubTexture name="osugirl8 instance 10000" x="1700" y="1214" width="300" height="611"/>
+	<SubTexture name="osugirl8 instance 10001" x="2000" y="1214" width="300" height="611"/>
+	<SubTexture name="osugirl8 instance 10002" x="2300" y="1214" width="300" height="611"/>
+	<SubTexture name="osugirl8 instance 10003" x="2600" y="1214" width="300" height="611"/>
+	<SubTexture name="osugirl8 instance 10004" x="2900" y="1214" width="300" height="611"/>
+	<SubTexture name="osugirl8 instance 10005" x="3200" y="1214" width="300" height="611"/>
+</TextureAtlas>

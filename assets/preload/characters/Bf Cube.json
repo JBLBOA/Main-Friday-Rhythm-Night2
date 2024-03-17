@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bf cube Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bf cube right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bf cube up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bf cube left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bf cube down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bf Cube",
+	"position": [
+		120,
+		530
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		20,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
