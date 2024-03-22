@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loadingBall.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loadingBall0000" x="0" y="0" width="140" height="137" frameX="-33" frameY="-33" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0001" x="140" y="0" width="167" height="154" frameX="-21" frameY="-26" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0002" x="307" y="0" width="158" height="178" frameX="-11" frameY="-12" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0003" x="0" y="178" width="144" height="143" frameX="-34" frameY="-31" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0004" x="144" y="178" width="150" height="150" frameX="-31" frameY="-27" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0005" x="294" y="178" width="184" height="178" frameX="0" frameY="0" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0006" x="0" y="356" width="165" height="185" frameX="-25" frameY="-4" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0007" x="165" y="356" width="139" height="153" frameX="-40" frameY="-23" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0008" x="165" y="356" width="139" height="153" frameX="-40" frameY="-23" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0009" x="304" y="356" width="141" height="140" frameX="-34" frameY="-31" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0010" x="304" y="356" width="141" height="140" frameX="-34" frameY="-31" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0011" x="0" y="0" width="140" height="137" frameX="-33" frameY="-33" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0012" x="0" y="0" width="140" height="137" frameX="-33" frameY="-33" frameWidth="190" frameHeight="190"/>
+	<SubTexture name="loadingBall0013" x="0" y="0" width="140" height="137" frameX="-33" frameY="-33" frameWidth="190" frameHeight="190"/>
+</TextureAtlas>

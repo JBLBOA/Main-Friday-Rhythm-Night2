@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FRN_Title_Screen.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SPECTRAL0000" x="0" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0001" x="1280" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0002" x="2560" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0003" x="0" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0004" x="0" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0005" x="1280" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0006" x="1280" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0007" x="2560" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0008" x="2560" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0009" x="0" y="1492" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0010" x="0" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0011" x="1280" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0012" x="2560" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0013" x="0" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0014" x="0" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0015" x="1280" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0016" x="1280" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0017" x="2560" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0018" x="2560" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0019" x="0" y="1492" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0020" x="0" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0021" x="1280" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0022" x="2560" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0023" x="0" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0024" x="0" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0025" x="1280" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0026" x="1280" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0027" x="2560" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0028" x="2560" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0029" x="0" y="1492" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0030" x="0" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0031" x="1280" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0032" x="2560" y="0" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0033" x="0" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0034" x="0" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0035" x="1280" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0036" x="1280" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0037" x="2560" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0038" x="2560" y="746" width="1280" height="746"/>
+	<SubTexture name="SPECTRAL0039" x="0" y="1492" width="1280" height="746"/>
+</TextureAtlas>

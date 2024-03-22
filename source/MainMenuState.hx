@@ -45,6 +45,7 @@ class MainMenuState extends MusicBeatState
 	];
 
 	var characters:FlxSprite;
+	public static var showKeybindsMenu:Bool = false;
 
 	var magenta:FlxSprite;
 	var camFollow:FlxObject;
